@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my first repository
-autjor-Rajdeep
+This is my first repository </br>
+author-Rajdeep
